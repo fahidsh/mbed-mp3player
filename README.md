@@ -3,8 +3,8 @@
 [-] Language: C++<br>
 [-] Platform: mbed OS 6<br>
 [-] License: MIT<br>
-[-] Author: [Fahid Shehzad]()<br>
-[-] Source: [GitHub]()<br>
+[-] Author: [Fahid Shehzad](https://github.com/fahidsh)<br>
+[-] Source: [GitHub](https://github.com/fahidsh/mbed-mp3player/)<br>
 [-] IDE/Software: Platform.io<br>
 [-] Last Update: 03.07.2022
 
